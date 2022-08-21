@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="chess">
+    <Position X="14.25" Y="10" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAQAAAIAAAAAAAAQAAAAAAEkI=</HashCode>
+      <FileName>chessboard.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="chessboard">
+    <Position X="12.25" Y="3" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>BACAAAACAAAAAACQAAAAQAAAIACAAACDBAAAAAIAEAA=</HashCode>
+      <FileName>chessboard.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="horse" Collapsed="true">
+    <Position X="14" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAEA=</HashCode>
+      <FileName>chessboard.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="soldier" Collapsed="true">
+    <Position X="23" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAEA=</HashCode>
+      <FileName>chessboard.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="general" Collapsed="true">
+    <Position X="0.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAgAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>chessboard.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="minister" Collapsed="true">
+    <Position X="7.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>chessboard.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cannon" Collapsed="true">
+    <Position X="16.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAEA=</HashCode>
+      <FileName>chessboard.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="guard" Collapsed="true">
+    <Position X="25.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>chessboard.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rook" Collapsed="true">
+    <Position X="2.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>chessboard.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="horse1" Collapsed="true">
+    <Position X="9.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAEA=</HashCode>
+      <FileName>chessboard.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="king" Collapsed="true">
+    <Position X="18.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAABAAAAAAAAAAEA=</HashCode>
+      <FileName>chessboard.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="queen" Collapsed="true">
+    <Position X="27.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>chessboard.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="elephant" Collapsed="true">
+    <Position X="5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAEA=</HashCode>
+      <FileName>chessboard.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="soldier1">
+    <Position X="11.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>chessboard.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rook1" Collapsed="true">
+    <Position X="20.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>chessboard.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
